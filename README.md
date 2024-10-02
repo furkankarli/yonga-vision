@@ -35,5 +35,5 @@ A web-based real-time object recognition platform that analyzes camera feeds usi
 | ![Mobile](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision2.png) | ![MobileFilter](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision1.png) |
 
 ## Video
-[Yonga Vision Demo](https://github.com/furkankarli/yonga-vision/blob/main/YongaVisionDemo.mp4)
+![Yonga Vision Demo](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGQ4cDM5OGF0eHp3MHFxYTh1d3IxZ2dseTF4d2Y4aG9vcnM4OGw1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JcTQp0duS9xheI086D/giphy.gif)
 
