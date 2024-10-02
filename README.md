@@ -22,9 +22,16 @@ A web-based real-time object recognition platform that analyzes camera feeds usi
 3. Click the "Apply" or "Start" button to initiate the object detection process.
 
 ## Screenshots
+1. Main
 ![YongaVision](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision3.png)
+2. Filter
 ![Filter](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision5.png)
+3. Detection
 ![Detection](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision4.png)
-![Mobile](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision2.png)
-![MobileFilter](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision1.png)
+
+## Mobile Screenshots
+| Mobile | MobileFilter |
+|--------|--------------|
+| ![Mobile](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision2.png) | ![MobileFilter](https://github.com/furkankarli/yonga-vision/blob/main/YongaVision1.png) |
+
 
